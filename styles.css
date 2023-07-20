@@ -1,0 +1,25 @@
+body {display:flex;flex-direction: column; justify-content: center;align-items: center;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-content: center;margin: 20px;
+    display: flex; flex-direction: column;
+}
+.form {display:block;text-align: center;
+    background-color: lightgray;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    width:250px;
+    padding:fit-content;
+    border: solid black 2px;
+    border-radius: 12px;
+.sex{
+    display: flex;
+}
+}
+.calculate {
+    background-color:aqua
+}
+#result {
+    margin: 20px;
+    color: green;
+}
